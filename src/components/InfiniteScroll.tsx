@@ -61,7 +61,7 @@ function InfiniteScroll() {
   }, []);
   return (
     <div className="w-1/2 bg-gray-400 p-4 m-4 rounded-md shadow-md">
-      <h2>Scroll to the last of this list- Throttle Example</h2>
+      <h2>Scroll to the last of this list- Throttle Example -- </h2>
       {jokes.map((joke) => (
         <div
           key={joke.id}

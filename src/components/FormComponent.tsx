@@ -21,7 +21,7 @@ function FormComponent() {
     <div className="w-1/2 bg-gray-400 p-4 rounded-md shadow-md">
       <h2 className="pb-2">
         {" "}
-        ON Blur trigger Form Validation- react-hook-form
+        ON Blur trigger Form Validation- react-hook-form,
       </h2>
       <form onSubmit={handleSubmit(create)}>
         <div className="space-y-5">

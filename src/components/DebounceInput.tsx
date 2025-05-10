@@ -39,7 +39,8 @@ function DebounceInput() {
 
   return (
     <div className="w-1/2 bg-gray-400 p-4 m-4 rounded-md shadow-md">
-      <h2>Debounce example with input</h2>
+      <h2>Debounce example with inputt</h2>
+      <p>Type something to see the debounce effect in action.</p>
       <input
         type="text"
         className="border border-gray-300 rounded-md p-2 w-full"
